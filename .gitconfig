@@ -1,0 +1,8 @@
+[user]
+	signingkey = AE52C4494576561339DFA14D66948006881E8BEC
+	name = Kou Matsumoto
+	email = developer@kou-matsumoto.jp
+[gpg]
+	program = /usr/local/bin/gpg
+[commit]
+	gpgsign = true
